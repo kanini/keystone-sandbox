@@ -1,6 +1,6 @@
 # keystone-sandbox
 
-A playground for testing and experimenting with the Keystone tool ecosystem.
+A sandbox for testing and learning the Keystone AI Platform.
 
 ## Tools
 
