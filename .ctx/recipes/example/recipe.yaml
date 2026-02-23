@@ -1,0 +1,16 @@
+recipe_id: example-bootstrap
+task_kind: investigation
+objective: Map command wiring for ksctx
+constraints:
+  - Stay within command registration and top-level CLI wiring
+acceptance_criteria:
+  - Identify where top-level commands are registered
+allowed_paths:
+  - ksctx.ts
+  - commands/
+hints:
+  seed_files:
+    - ksctx.ts
+    - commands/register.ts
+budgets:
+  max_tokens: 12000

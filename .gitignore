@@ -1,0 +1,3 @@
+.keystone/local/
+.keystone/lock
+.keystone/*.lock

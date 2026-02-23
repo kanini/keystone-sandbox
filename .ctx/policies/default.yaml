@@ -1,0 +1,7 @@
+schema_version: 1
+name: default
+sensitive_scan:
+  mode: warn
+always_include:
+  - path: ksctx.ts
+    why: CLI entrypoint

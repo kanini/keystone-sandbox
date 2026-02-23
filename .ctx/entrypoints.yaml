@@ -1,0 +1,5 @@
+schema_version: 1
+entrypoints:
+  - layer: core
+    path: ksctx.ts
+    why: CLI entrypoint
